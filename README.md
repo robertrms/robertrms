@@ -8,6 +8,6 @@ Meu objetivo e ser um profissional que possui flexibilidade para trabalhar com q
 - 🎓Formado em Redes de Computadores.
 - ❤️Apaixonado por Java.
 - 🚀Atualmente, estou aprendendo Spring Boot, API com Spring RESTful/REST, Spring Boot MVC, JSP, JSF, JPA, Thymeleaf e AngularJS.
-- 💻 Linguágens: Java, C# e NodeJS.
+- 💻Técnico: Java, C# e NodeJS.
 - 🌍Idiomas: Português, Inglês Básico.
-- 💼 Atualmente, sou estágiario na <Strong>Mestra Informática</strong>.
+- 💼Atualmente, sou estágiario na <Strong>Mestra Informática</strong>.

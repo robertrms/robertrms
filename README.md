@@ -7,7 +7,7 @@ Meu objetivo e ser um profissional que possui flexibilidade para trabalhar com q
 - 📚Tecnólogo em Análise e Desenvolvimento de Sistemas.
 - 🎓Formado em Redes de Computadores.
 - ❤️Apaixonado por Java.
-- 🚀Atualmente, estou aprendendo PHP-7, Spring Boot, API com Spring RESTful/REST, Spring Boot MVC, JSP, JSF, JPA, Thymeleaf e AngularJS.
+- 🚀Atualmente, estou aprendendo PHP-7, Spring Boot, API-RESTful/REST, Spring Boot MVC, JSP/JSF/JPA, Thymeleaf e AngularJS.
 - 💻Técnico: Java, C# e NodeJS.
 - 🌍Idiomas: Português, Inglês Básico.
 - 💼Atualmente, sou estágiario na <Strong>Mestra Informática</strong>.

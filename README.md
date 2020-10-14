@@ -10,4 +10,4 @@ Meu objetivo e ser um profissional que possui flexibilidade para trabalhar com q
 - 🚀Atualmente, estou aprendendo SpringBoot, APIs, RESTful/REST, Spring MVC, JSP/JSF/JPA, Thymeleaf e AngularJS, NodeJS, ReactNative.
 - 💻Técnico: Java, C# e NodeJS.
 - 🌍Idiomas: Português, Inglês Básico.
-- 💼Atualmente, sou estágiario na <Strong>Mestra Informática</strong>.
+- 💼Atualmente, sou estágiario na <Strong>Spot Educação</strong>.

@@ -7,7 +7,7 @@ Meu objetivo e ser um profissional que possui flexibilidade para trabalhar com q
 - 📚Tecnólogo em Análise e Desenvolvimento de Sistemas.
 - 🎓Formado em Redes de Computadores.
 - ❤️Apaixonado por Java.
-- 🚀Atualmente, estou aprendendo SpringBoot, APIs, RESTful/REST, Spring MVC, JSP/JSF/JPA, Thymeleaf e AngularJS, NodeJS, Reac ReactNative.
-- 💻Técnico: Java, ReactJS.
+- 🚀Atualmente, estou estudando Java, ReactJS, Flutter.
+- 💻Tecnologias já estudadas: Java, AngularJS, ReactJS, React Native, NodeJS e Flutter.
 - 🌍Idiomas: Português, Inglês Básico.
 - 💼Atualmente, sou estágiario na <Strong>Spot Educação</strong>.

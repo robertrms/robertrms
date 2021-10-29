@@ -8,7 +8,7 @@ Meu objetivo e ser um profissional que possui flexibilidade para trabalhar com q
 - 🎓Formado em Redes de Computadores.
 - 🎓Técnico em Manutenção e Suporte em Informática.
 - 🥰Apaixonado por Tecnologia.
-- 🚀Atualmente, estou estudando Java, ReactJS e JavaScript.
-- 💻Tecnologias já estudadas: Java, AngularJS, ReactJS, React Native, NodeJS, Flutter e JavaScript.
+- 🚀Atualmente, estou estudando Java, Angular10+, ReactJS e JavaScript.
+- 💻Tecnologias já estudadas: Java, Angular10+, ReactJS, React Native, NodeJS, Flutter e JavaScript.
 - 🌍Idiomas: Português, Inglês Básico.
-- 💼Atualmente, não estou trabalhando.
+- 💼Atualmente, trabalho na #Calcme Sistemas#.

@@ -11,4 +11,4 @@ Meu objetivo e ser um profissional que possui flexibilidade para trabalhar com q
 - 🚀Atualmente, estou estudando Java, Angular10+, ReactJS e JavaScript.
 - 💻Tecnologias já estudadas: Java, Angular10+, ReactJS, React Native, NodeJS, Flutter e JavaScript.
 - 🌍Idiomas: Português, Inglês Básico.
-- 💼Atualmente, trabalho na Calcme.
+- 💼Atualmente, trabalho na ClickFeev.
